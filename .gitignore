@@ -1,0 +1,7 @@
+*.exe
+*.layout
+*.log
+*.o
+*.res
+*.win
+*.sublime-workspace
